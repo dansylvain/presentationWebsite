@@ -5,7 +5,7 @@ This is my personal website, where I showcase information about myself, my proje
 ## Accessing the Website
 
 You can access the website by visiting the following link:
-[[My Personal Website](https://your-github-username.github.io)](https://dansylvain.github.io/presentationWebsite/)
+https://dansylvain.github.io/presentationWebsite/
 
 ## Technologies Used
 
