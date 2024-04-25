@@ -1,6 +1,6 @@
-# About Me Website
+# Presentation Website
 
-This is my personal website, where I showcase information about myself, my projects, and other interests. The website is built using HTML, CSS, and JavaScript, with no external frameworks used.
+This is my personal website, where I showcase information about myself, my projects, and other interests. The website is built using HTML, CSS, and JavaScript, with no external frameworks used. Disclaimer: this site was done many years ago, and I changed completly my coding interests...
 
 ## Accessing the Website
 
